@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:marceljeanchampagne@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/marceljc3"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/marcel-champagne/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com

@@ -25,6 +25,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:marceljeanchampagne@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/marceljc3"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/marcel-champagne/"}
+  - {title: My website (work in progress), icon: globe, url: ""}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com

@@ -1,35 +1,17 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about/"
 layout: page
 ---
 
-## Github Pages
+## Who is this?
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+I am Marcel, a university student at Carleton University for Computer Science Honors. 
 
-## Features
-
- - supports dark mode
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## What do you do?
 
 ## Installation
 
-To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
-
-```bash
-git clone https://github.com/niklasbuschmann/contrast.git
-cd contrast
-gem install bundler jekyll jekyll-feed
-bundle exec jekyll serve
-```
 
 ## Config
 
@@ -72,16 +54,6 @@ plugins:
 
 ## MathJax
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter. [Jektex](https://github.com/yagarea/jektex) can be used to pre-render math on the server side.
-
 ## License
 
-[public domain](http://unlicense.org/)
-
 ## Screenshots
-
-![screenshot](https://github.com/user-attachments/assets/3422eea6-c6ae-4bbe-ba2c-0ae2da348658)
-
-![screenshot](https://github.com/user-attachments/assets/42d21de5-62d5-4aa1-b662-d113adc0ed96)
-
-![screenshot](https://github.com/user-attachments/assets/d31879ae-7113-42be-b580-1e96a2aedd29)

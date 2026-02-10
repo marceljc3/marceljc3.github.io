@@ -14,7 +14,7 @@ In the realm of computer science, there are many fields that are greatly interes
 
 ## What are you doing right now? 
 
-I am still at my co-op position through FSWEP and doing my studies.
+I am still at my co-op position through FSWEP and doing my studies. I'm also working on some side projects of mine to learn more skills and to have fun.
 
 ## Are you open to work?
 

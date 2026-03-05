@@ -10,7 +10,7 @@ I am Marcel, a student at Carleton University for Computer Science Honors. I hav
 
 ## What are your interests?
 
-In the realm of computer science, there are many fields that are greatly interesting to me. I've always had a deep interest in the behind-the-scenes and the development of things. I like solving complex problems and learning about areas of software development, cybersecurity and math through coursework and my own endeavors. Outside of that, I like taking long walks, French Touch music, fostering community and playing video games.
+In the realm of computer science, there are many fields that are greatly interesting to me. I've always had a deep interest in the behind-the-scenes and the development of things. I like solving complex problems and learning about areas of software development, cybersecurity and math through coursework and my own endeavors. Outside of that, I like taking long walks, French Touch music, fostering community, riichi mahjong and playing fighting games.
 
 ## What are you doing right now? 
 
